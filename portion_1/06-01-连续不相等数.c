@@ -3,7 +3,7 @@
 int main(){
 	int count=0;
 	int a=2;
-	printf("请输入一个不大于6的正整数 \n");
+	printf("请输入一个不大于6的正整数  \n");
 	scanf("%d",&a);
 	printf("连续不相等整数输出如下：\n");
 	for(int i=a;i<=a+3;i++){
